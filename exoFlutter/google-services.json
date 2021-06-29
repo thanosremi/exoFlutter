@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91199503863",
+    "project_id": "birthdayfriends-b23ac",
+    "storage_bucket": "birthdayfriends-b23ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91199503863:android:2bb3ebd1d6df9e9c4142f2",
+        "android_client_info": {
+          "package_name": "com.rech.dayFriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91199503863-t5oaanr1u7pft3cst9ln4likme3ne9is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjnj6RMXq0TxmAIvQaBOYP3BTul_jGKdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91199503863-t5oaanr1u7pft3cst9ln4likme3ne9is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
